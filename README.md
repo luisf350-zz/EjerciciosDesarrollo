@@ -11,3 +11,4 @@
 8. Dado un número entero, inviertelo y devuelve de nuevo el entero
 9. Dados 2 arrays, devolver 1 array con los elementos comunes entre ambos
 10. Dado un numero, mostrar una escalera con escalones de "[-]" usando el numero para las escaleras
+11. Dado un texto y una busqueda, censurar todas las coincidencias de la busqueda en el texto con [-CENSURADO-]
