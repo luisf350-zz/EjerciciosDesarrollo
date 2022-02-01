@@ -9,3 +9,4 @@
 6. Dibujar un cuadrado hueco con asteriscos
 7. Dados 2 numeros, devolver cuantos impares hay entre ellos
 8. Dado un número entero, inviertelo y devuelve de nuevo el entero
+9. Dados 2 arrays, devolver 1 array con los elementos comunes entre ambos
