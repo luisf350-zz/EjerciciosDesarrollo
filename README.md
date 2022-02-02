@@ -13,3 +13,4 @@
 10. Dado un numero, mostrar una escalera con escalones de "[-]" usando el numero para las escaleras
 11. Dado un texto y una busqueda, censurar todas las coincidencias de la busqueda en el texto con [-CENSURADO-]
 12. Dado un número, mostrar todos los números desde ese al 0 de 8 en 8 en una lista con guiones y cada número debe empezar con No.
+13. Dado un array, dividirlo en tantos sub arrays como sea necesario basandonos en un número que indique su tamaño 
